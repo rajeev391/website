@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Rajeev Panchadara - Personal Website</title>
+</head>
+
+<body>
+    <header>
+        <h1>Rajeev Panchadara</h1>
+        <p>Product Manager | Fraud Deterrence Specialist</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm Rajeev Panchadara, a 31-year-old Product Manager with 11 years of experience specializing in Fraud
+            Deterrence at HSBC. I'm passionate about leveraging technology to create secure and innovative solutions.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Product Management</li>
+            <li>Fraud Detection</li>
+            <li>Data Analysis</li>
+            <li>Team Leadership</li>
+            <li>Strategic Planning</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>HSBC Fraud Prevention System</h3>
+            <p>Led the development and implementation of an advanced fraud detection system, reducing fraudulent
+                activities by 20%.</p>
+        </div>
+        <div class="project">
+            <h3>Product X Enhancement</h3>
+            <p>Collaborated with cross-functional teams to enhance the features of Product X, resulting in increased
+                customer satisfaction.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contact me at: rajeev@example.com</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
